@@ -1,0 +1,36 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "test title 1",
+      "content": "this is json-server test."
+    },
+    {
+      "id": 2,
+      "title": "test title 3",
+      "content": "this is json-server test."
+    },
+    {
+      "id": 3,
+      "title": "test title 3",
+      "content": "this is json-server test."
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userId": "testid1",
+      "password": "1!"
+    },
+    {
+      "id": 2,
+      "userId": "testid2",
+      "password": "1!"
+    },
+    {
+      "id": 3,
+      "userId": "testid3",
+      "password": "1!"
+    }
+  ]
+}
