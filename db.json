@@ -3,17 +3,32 @@
     {
       "id": 1,
       "title": "test title 1",
-      "content": "this is json-server test."
+      "content": "this is json-server test.",
+      "user": 1
     },
     {
       "id": 2,
-      "title": "test title 3",
-      "content": "this is json-server test."
+      "title": "test title 2",
+      "content": "this is json-server test.",
+      "user": 2
     },
     {
       "id": 3,
       "title": "test title 3",
-      "content": "this is json-server test."
+      "content": "this is json-server test.",
+      "user": 1
+    },
+    {
+      "id": 4,
+      "title": "test title 4",
+      "content": "this is json-server test.",
+      "user": 2
+    },
+    {
+      "id": 5,
+      "title": "test title 5",
+      "content": "this is json-server test.",
+      "user": 3
     }
   ],
   "users": [
